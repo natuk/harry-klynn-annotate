@@ -1,0 +1,8 @@
+---
+layout: person
+title: Χάρρυ Κλυνν
+personid: 200121519
+wplink: https://en.wikipedia.org/wiki/Vasilis_Triantafillidis
+---
+
+

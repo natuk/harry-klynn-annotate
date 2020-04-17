@@ -1,0 +1,140 @@
+---
+layout: track
+title: Πιτσικουλιές
+albumuri: 280b0e15-57f5-4f4e-a51c-982fdf54ea8e
+trackuri: b8cb44ba-81f2-456d-8b3d-660601aff3f2
+youtubeurl:
+---
+
+<!-- Audio description -->
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="0.190" data-end="1.230">
+    <span class="character"><label>character:</label> <a href="{% link people/32004905.markdown %}" target="_blank">Κωνσταντίνος Καραμανλής</a></span><br />
+    <span class="character"><label>character:</label> Εργολάβος</span><br />
+    <span class="actor"><label>actor:</label> <a href="{% link people/200121519.markdown %}" target="_blank">Χάρρυ Κλύνν</a></span><br />
+    <span class="script">Εδώ θα οικοδομήσω</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="1.720" data-end="9.79">
+    <span class="character"><label>character:</label> <a href="{% link people/36956756.markdown %}" target="_blank">Ανδρέας Παπανδρέου</a></span><br />
+    <span class="actor"><label>actor:</label> <a href="{% link people/200121519.markdown %}" target="_blank">Χάρρυ Κλύνν</a></span><br />
+    <span class="reference">"Το οικόπεδο αυτό": Ελλάδα</span>
+    <span class="reference">"Αυτόχθονες ιθαγενείς": Έλληνες</span>
+    <span class="reference">"Εργολάβος": αναφορά στην αυθαιρεσία. Την δεκαετία του 80 πολλοί προσπαθούσαν να χτίσουν σπίτια σε οικόπεδα δίχως πολεοδομική άδεια με τη βοήθεια εργολάβων.</span>
+    <span class="script">Το οικόπεδο αυτό ανήκει στους αυτόχθονες ιθαγενείς κύριε εργολάβε και αυτοί θα αποφασίσουν</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="10.26" data-end="11.37">
+    <span class="character"><label>character:</label> <a href="{% link people/32004905.markdown %}" target="_blank">Κωνσταντίνος Καραμανλής</a></span><br />
+    <span class="character"><label>character:</label> Εργολάβος</span><br />
+    <span class="actor"><label>actor:</label> <a href="{% link people/200121519.markdown %}" target="_blank">Χάρρυ Κλύνν</a></span><br />
+    <span class="script">Και πώς θα απόφασίσουν;</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="14.249" data-end="16.670">
+    <span class="character"><label>character:</label> <a href="{% link people/36956756.markdown %}" target="_blank">Ανδρέας Παπανδρέου</a></span><br />
+    <span class="actor"><label>actor:</label> <a href="{% link people/200121519.markdown %}" target="_blank">Χάρρυ Κλύνν</a></span><br />
+    <span class="reference">"Πιτσικουλιές": <a href="https://www.slang.gr/definition/5504-pitsikoulies" target="_blank">https://www.slang.gr/definition/5504-pitsikoulies</a></span>
+    <span class="script">Θα παίξουμε τις πιτσικουλιές κύριε εργολάβε και όποιος νικήσει.</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="21.120" data-end="25.976">
+    <span class="actor"><label>actor:</label> χορωδία</span><br />
+    <span class="reference">"Και παίζει ο πρώτος δεξιά": αναφορά στον Κωνσταντίνο Καραμανλή σαν ιδρυτής και πρόεδρος της <a href="https://el.wikipedia.org/wiki/%CE%9D%CE%AD%CE%B1_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1" target="_blank">Νέας Δημοκρατίας</a>, δηλ. δεξιού κόμματος</span>
+    <span class="reference">"Ο δεύτερος στο κέντρο": αναφορά στον Αντρέα Παπανδρέου, ιδρυτή και πρόεδρου του <a href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%AE%CE%BD%CE%B9%CE%BF_%CE%A3%CE%BF%CF%83%CE%B9%CE%B1%CE%BB%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%9A%CE%AF%CE%BD%CE%B7%CE%BC%CE%B1"  target="_blank">Πανελλήνιου Σοσιαλιστικού Κινήματος</a>, δηλ. κόμματος που προσδιορίζεται ως κέντρο.</span>
+    <span class="script">Και 'παίξαν τις πιτσί... πιτσί... πιτσί... πιτσικουλιές στα μαρμαρένια αλώνια και παίζει ο πρώ... ο πρώ... ο πρώ... ο πρώτος δεξιά, ο δεύτερος στο κέντρο</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="21.120" data-end="25.976">
+    <span class="actor"><label>actor:</label> χορωδία</span><br />
+    <span class="reference">"Πιτσικουλιές": <a href="https://www.slang.gr/definition/5504-pitsikoulies" target="_blank">https://www.slang.gr/definition/5504-pitsikoulies</a></span>
+    <span class="script">Και 'παίξαν τις πιτσί... πιτσί... πιτσί... πιτσικουλιές στα μαρμαρένια αλώνια και παίζει ο πρώ... ο πρώ... ο πρώ... ο πρώτος δεξιά, ο δεύτερος στο κέντρο</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="43.51" data-end="50.56">
+    <span class="actor"><label>actor:</label> <a href="{% link people/200121519.markdown %}" target="_blank">Χάρρυ Κλύνν</a></span><br />
+    <span class="reference">"Και ο τρίτος παίζει αριστερά": πιθανή αναφορά στον Χαρίλαο Φλωράκη και το Κομμουνιστικό Κόμμα Ελλάδας, δηλ. κόμμα της αριστεράς.</span>
+    <span class="voice"><label>voice quality:</label> camp</span>
+    <span class="script">Και ο τρίτος παίζει αριστερά</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="53.22" data-end="58.98">
+    <span class="actor"><label>actor:</label> <a href="{% link people/200121519.markdown %}" target="_blank">Χάρρυ Κλύνν</a></span><br />
+    <span class="voice"><label>voice quality:</label> βλάχικη</span>
+    <span class="script">Ώρε και τέταρτο δεν έχει</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="62.075" data-end="62.66">
+    <span class="event"><label>event:</label> φτύσιμο</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="62.66" data-end="63">
+    <span class="event"><label>event:</label> σφαλιάρα</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="63" data-end="63.27">
+    <span class="event"><label>event:</label> κραυγή</span>
+  </span>
+</div>
+
+<hr>
+
+<div class="able-desc">
+  <span class="able-hidden">Description: </span>
+  <span class="able-transcript-seekpoint" data-start="63.36" data-end="66.88">
+    <span class="actor"><label>actor:</label> <a href="{% link people/200121519.markdown %}" target="_blank">Χάρρυ Κλύνν</a></span><br />
+    <span class="voice"><label>voice quality:</label> camp</span>
+    <span class="script">Βαρούν και τα κλαρίνα</span>
+  </span>
+</div>

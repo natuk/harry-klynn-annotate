@@ -1,0 +1,8 @@
+---
+layout: person
+title: Κωνσταντίνος Καραμανλής
+personid: 32004905
+wplink: https://en.wikipedia.org/wiki/Konstantinos_Karamanlis
+---
+
+
