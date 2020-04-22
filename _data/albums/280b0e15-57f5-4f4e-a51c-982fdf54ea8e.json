@@ -1,0 +1,2078 @@
+{
+  "label-info": [
+    {
+      "label": {
+        "sort-name": "Columbia",
+        "name": "Columbia",
+        "label-code": 162,
+        "aliases": [
+          {
+            "primary": null,
+            "type-id": null,
+            "sort-name": "Colombia Records",
+            "type": null,
+            "begin": null,
+            "locale": null,
+            "ended": false,
+            "name": "Colombia Records",
+            "end": null
+          },
+          {
+            "sort-name": "Colombia Records",
+            "type-id": null,
+            "primary": null,
+            "type": null,
+            "begin": null,
+            "locale": null,
+            "name": "Colombia Records",
+            "ended": false,
+            "end": null
+          },
+          {
+            "sort-name": "Columbia",
+            "type-id": null,
+            "primary": null,
+            "name": "Columbia",
+            "ended": false,
+            "begin": null,
+            "locale": null,
+            "type": null,
+            "end": null
+          },
+          {
+            "end": null,
+            "primary": null,
+            "sort-name": "Columbia",
+            "type-id": null,
+            "name": "Columbia",
+            "ended": false,
+            "type": null,
+            "begin": null,
+            "locale": null
+          },
+          {
+            "end": null,
+            "primary": null,
+            "type-id": null,
+            "sort-name": "Columbia US",
+            "locale": null,
+            "begin": null,
+            "type": null,
+            "name": "Columbia US",
+            "ended": false
+          },
+          {
+            "end": null,
+            "sort-name": "Columbia US",
+            "type-id": null,
+            "primary": null,
+            "name": "Columbia US",
+            "ended": false,
+            "begin": null,
+            "type": null,
+            "locale": null
+          },
+          {
+            "sort-name": "columbia",
+            "type-id": null,
+            "primary": null,
+            "begin": null,
+            "type": null,
+            "locale": null,
+            "ended": false,
+            "name": "columbia",
+            "end": null
+          },
+          {
+            "end": null,
+            "type": null,
+            "begin": null,
+            "locale": null,
+            "name": "columbia",
+            "ended": false,
+            "primary": null,
+            "sort-name": "columbia",
+            "type-id": null
+          }
+        ],
+        "disambiguation": "imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP",
+        "id": "011d1192-6f65-45bd-85c4-0400dd45693e"
+      },
+      "catalog-number": "14C 064 71190"
+    },
+    {
+      "label": {
+        "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+        "aliases": [
+          {
+            "primary": null,
+            "type-id": null,
+            "sort-name": "Colombia Records",
+            "begin": null,
+            "type": null,
+            "locale": null,
+            "ended": false,
+            "name": "Colombia Records",
+            "end": null
+          },
+          {
+            "begin": null,
+            "locale": null,
+            "type": null,
+            "ended": false,
+            "name": "Colombia Records",
+            "primary": null,
+            "sort-name": "Colombia Records",
+            "type-id": null,
+            "end": null
+          },
+          {
+            "sort-name": "Columbia",
+            "type-id": null,
+            "primary": null,
+            "begin": null,
+            "locale": null,
+            "type": null,
+            "ended": false,
+            "name": "Columbia",
+            "end": null
+          },
+          {
+            "type": null,
+            "begin": null,
+            "locale": null,
+            "name": "Columbia",
+            "ended": false,
+            "sort-name": "Columbia",
+            "type-id": null,
+            "primary": null,
+            "end": null
+          },
+          {
+            "primary": null,
+            "type-id": null,
+            "sort-name": "Columbia US",
+            "ended": false,
+            "name": "Columbia US",
+            "locale": null,
+            "begin": null,
+            "type": null,
+            "end": null
+          },
+          {
+            "begin": null,
+            "locale": null,
+            "type": null,
+            "ended": false,
+            "name": "Columbia US",
+            "sort-name": "Columbia US",
+            "type-id": null,
+            "primary": null,
+            "end": null
+          },
+          {
+            "ended": false,
+            "name": "columbia",
+            "begin": null,
+            "locale": null,
+            "type": null,
+            "sort-name": "columbia",
+            "type-id": null,
+            "primary": null,
+            "end": null
+          },
+          {
+            "end": null,
+            "primary": null,
+            "type-id": null,
+            "sort-name": "columbia",
+            "type": null,
+            "begin": null,
+            "locale": null,
+            "ended": false,
+            "name": "columbia"
+          }
+        ],
+        "disambiguation": "imprint owned by CBS between 1938–1990 within US/CA/MX; owned worldwide by Sony Music Entertainment since 1991 except in JP",
+        "label-code": 162,
+        "name": "Columbia",
+        "sort-name": "Columbia"
+      },
+      "catalog-number": "14C064 71190"
+    }
+  ],
+  "release-events": [
+    {
+      "date": "1981",
+      "area": {
+        "iso-3166-1-codes": [
+          "GR"
+        ],
+        "name": "Greece",
+        "disambiguation": "",
+        "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+        "sort-name": "Greece"
+      }
+    }
+  ],
+  "text-representation": {
+    "script": "Grek",
+    "language": "ell"
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "country": "GR",
+  "media": [
+    {
+      "tracks": [
+        {
+          "number": "1",
+          "length": null,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "begin": null,
+                    "type": null,
+                    "locale": "el",
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "primary": true,
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "end": null
+                  },
+                  {
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "primary": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "name": "Χάρρυ Κλυνν International",
+                    "ended": false
+                  }
+                ],
+                "name": "Χάρρυ Κλυνν",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "sort-name": "Klynn, Harry"
+              },
+              "name": "Χάρρυ Κλυνν"
+            }
+          ],
+          "position": 1,
+          "recording": {
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                }
+              }
+            ],
+            "id": "23bf6620-1d61-4f8b-994a-fe74ec569c75",
+            "title": "Εισαγωγή",
+            "aliases": [],
+            "disambiguation": ""
+          },
+          "title": "Εισαγωγή",
+          "id": "35d3643a-0d8e-4a39-9ac6-b78fb52b544f"
+        },
+        {
+          "id": "50472e04-d4e7-453a-936e-63adb342a2e5",
+          "recording": {
+            "video": false,
+            "length": null,
+            "disambiguation": "",
+            "aliases": [],
+            "title": "Χερουβικό",
+            "id": "d6ed087d-9efe-4270-a99e-bab4fb3f3d07",
+            "artist-credit": [
+              {
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "sort-name": "Klynn, Harry"
+                },
+                "joinphrase": ""
+              }
+            ]
+          },
+          "title": "Χερουβικό",
+          "position": 2,
+          "artist-credit": [
+            {
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "name": "Χάρρυ Κλυνν",
+                "aliases": [
+                  {
+                    "end": null,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "begin": null,
+                    "locale": "el",
+                    "type": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "primary": true
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "ended": false,
+                    "name": "Χάρι Κλιν"
+                  },
+                  {
+                    "end": null,
+                    "name": "Χάρρυ Κλυνν International",
+                    "ended": false,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "primary": null
+                  }
+                ],
+                "disambiguation": "",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "number": "2",
+          "length": null
+        },
+        {
+          "position": 3,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "name": "Χάρρυ Κλυνν",
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "begin": null,
+                    "type": null,
+                    "locale": "el",
+                    "primary": true,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "end": null
+                  },
+                  {
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International"
+                  }
+                ],
+                "sort-name": "Klynn, Harry"
+              }
+            }
+          ],
+          "id": "7de85301-bb2e-4175-b0aa-c9c26019f79c",
+          "recording": {
+            "aliases": [],
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                },
+                "name": "Χάρρυ Κλυνν"
+              }
+            ],
+            "id": "b8cb44ba-81f2-456d-8b3d-660601aff3f2",
+            "title": "Πιτσικουλιές",
+            "length": null,
+            "video": false
+          },
+          "title": "Πιτσικουλιές",
+          "number": "3",
+          "length": null
+        },
+        {
+          "number": "4",
+          "length": null,
+          "recording": {
+            "video": false,
+            "length": null,
+            "title": "Χορικό πρώτο",
+            "id": "8fdbed2c-5026-49a9-b936-67c417a7a127",
+            "artist-credit": [
+              {
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "aliases": []
+          },
+          "id": "e2dd5b96-0ec0-46a5-866e-98c0705e566f",
+          "title": "Χορικό πρώτο",
+          "position": 4,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "aliases": [
+                  {
+                    "begin": null,
+                    "locale": "el",
+                    "type": null,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "primary": true,
+                    "end": null
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρι Κλιν",
+                    "end": null
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "end": null
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν",
+                "sort-name": "Klynn, Harry"
+              },
+              "name": "Χάρρυ Κλυνν"
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "length": null,
+          "recording": {
+            "title": "Το τραγούδι της Λουκίας",
+            "id": "ca6da4d8-7455-416e-b71c-f87fe70739e1",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "sort-name": "Klynn, Harry"
+                },
+                "name": "Χάρρυ Κλυνν",
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "aliases": [],
+            "video": false,
+            "length": null
+          },
+          "title": "Το τραγούδι της Λουκίας",
+          "id": "f2879db1-aa63-4556-a27a-1fa9838d867d",
+          "position": 5,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "name": "Χάρρυ Κλυνν",
+                "aliases": [
+                  {
+                    "type": null,
+                    "begin": null,
+                    "locale": "el",
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "primary": true,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "end": null
+                  },
+                  {
+                    "ended": false,
+                    "name": "Χάρι Κλιν",
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "end": null
+                  },
+                  {
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "primary": null,
+                    "end": null
+                  }
+                ],
+                "disambiguation": "",
+                "sort-name": "Klynn, Harry"
+              },
+              "name": "Χάρρυ Κλυνν"
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "name": "Χάρρυ Κλυνν",
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "end": null,
+                    "primary": true,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "ended": false,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "begin": null,
+                    "type": null,
+                    "locale": "el"
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "ended": false,
+                    "name": "Χάρι Κλιν",
+                    "end": null
+                  },
+                  {
+                    "name": "Χάρρυ Κλυνν International",
+                    "ended": false,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "end": null
+                  }
+                ],
+                "sort-name": "Klynn, Harry"
+              },
+              "name": "Χάρρυ Κλυνν"
+            }
+          ],
+          "position": 6,
+          "recording": {
+            "video": false,
+            "length": null,
+            "id": "94dd788c-e42a-4e61-98b0-0843f0921acb",
+            "title": "Χορικό δεύτερο",
+            "artist-credit": [
+              {
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                },
+                "name": "Χάρρυ Κλυνν",
+                "joinphrase": ""
+              }
+            ],
+            "aliases": [],
+            "disambiguation": ""
+          },
+          "title": "Χορικό δεύτερο",
+          "id": "27bede82-6f05-4efc-b706-d9269770ee26",
+          "length": null,
+          "number": "6"
+        },
+        {
+          "length": null,
+          "number": "7",
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "aliases": [
+                  {
+                    "primary": true,
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "locale": "el",
+                    "begin": null,
+                    "type": null,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "end": null
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν",
+                "sort-name": "Klynn, Harry"
+              },
+              "name": "Χάρρυ Κλυνν",
+              "joinphrase": ""
+            }
+          ],
+          "position": 7,
+          "id": "632d230d-4db5-468f-806e-82a79f0055be",
+          "recording": {
+            "aliases": [],
+            "disambiguation": "",
+            "title": "Άδικα πήγα άδικα",
+            "id": "37c739d9-4dd9-45a7-92f8-68de94d59598",
+            "artist-credit": [
+              {
+                "artist": {
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "sort-name": "Klynn, Harry"
+                },
+                "name": "Χάρρυ Κλυνν",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "length": null
+          },
+          "title": "Άδικα πήγα άδικα"
+        },
+        {
+          "number": "8",
+          "length": null,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "name": "Χάρρυ Κλυνν",
+                "aliases": [
+                  {
+                    "begin": null,
+                    "locale": "el",
+                    "type": null,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "primary": true,
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρι Κλιν",
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "primary": null
+                  },
+                  {
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "primary": null,
+                    "end": null
+                  }
+                ],
+                "disambiguation": ""
+              },
+              "name": "Χάρρυ Κλυνν"
+            }
+          ],
+          "position": 8,
+          "recording": {
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "sort-name": "Klynn, Harry"
+                }
+              }
+            ],
+            "id": "0aebec6a-2860-4fd5-b2c9-36ffe726aede",
+            "title": "Κατεβαίνει - κατεβαίνει",
+            "disambiguation": "",
+            "aliases": []
+          },
+          "id": "b44f76bc-061e-4120-be10-5c7654a17640",
+          "title": "Κατεβαίνει - κατεβαίνει"
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "aliases": [
+                  {
+                    "end": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "primary": true,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "type": null,
+                    "begin": null,
+                    "locale": "el"
+                  },
+                  {
+                    "end": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "primary": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "type-id": null
+                  },
+                  {
+                    "end": null,
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "primary": null
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν",
+                "sort-name": "Klynn, Harry"
+              }
+            }
+          ],
+          "position": 9,
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "title": "Οι δρόμοι της Αθήνας μας",
+            "id": "61859e2e-83b0-489f-ae8f-b56b3a3dbc67",
+            "aliases": [],
+            "disambiguation": "",
+            "length": null,
+            "video": false
+          },
+          "title": "Οι δρόμοι της Αθήνας μας",
+          "id": "223ea2cc-2f88-455c-98f0-b6d93d5059c7",
+          "length": null,
+          "number": "9"
+        },
+        {
+          "id": "5a12c5e3-8193-4a2a-be72-d8d7bb74e6ed",
+          "recording": {
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "artist": {
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "sort-name": "Klynn, Harry"
+                },
+                "name": "Χάρρυ Κλυνν",
+                "joinphrase": ""
+              }
+            ],
+            "id": "c3df3f8e-28a0-4801-a796-d3a3ee6d9d37",
+            "title": "Άλα μαλά κακάλα",
+            "aliases": [],
+            "disambiguation": ""
+          },
+          "title": "Άλα μαλά κακάλα",
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "aliases": [
+                  {
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "type": null,
+                    "begin": null,
+                    "locale": "el",
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "primary": true,
+                    "end": null
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "primary": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "begin": null,
+                    "type": null,
+                    "locale": null
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν"
+              },
+              "name": "Χάρρυ Κλυνν",
+              "joinphrase": ""
+            }
+          ],
+          "position": 10,
+          "number": "10",
+          "length": null
+        },
+        {
+          "number": "11",
+          "length": null,
+          "recording": {
+            "disambiguation": "",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": ""
+                },
+                "name": "Χάρρυ Κλυνν"
+              }
+            ],
+            "id": "de1b7237-04df-4158-8642-53ead3109f8d",
+            "title": "Το πράσινο τραγούδι",
+            "length": null,
+            "video": false
+          },
+          "title": "Το πράσινο τραγούδι",
+          "id": "52ef7c75-35c3-4194-8cef-a2b9ea22066b",
+          "artist-credit": [
+            {
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "aliases": [
+                  {
+                    "primary": true,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "ended": false,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "locale": "el",
+                    "begin": null,
+                    "type": null,
+                    "end": null
+                  },
+                  {
+                    "sort-name": "Χάρι Κλιν",
+                    "type-id": null,
+                    "primary": null,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "ended": false,
+                    "name": "Χάρι Κλιν",
+                    "end": null
+                  },
+                  {
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "primary": null,
+                    "end": null
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν",
+                "sort-name": "Klynn, Harry"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "position": 11
+        },
+        {
+          "title": "Η τελετή",
+          "recording": {
+            "video": false,
+            "length": null,
+            "disambiguation": "",
+            "aliases": [],
+            "id": "108c7fb9-c194-47c7-bf11-4ef4d9902060",
+            "title": "Η τελετή",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "sort-name": "Klynn, Harry"
+                },
+                "name": "Χάρρυ Κλυνν"
+              }
+            ]
+          },
+          "id": "5a732f57-5531-4dbe-b720-ceb50e81fa06",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "end": null,
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "primary": true,
+                    "type": null,
+                    "begin": null,
+                    "locale": "el",
+                    "ended": false,
+                    "name": "Βασίλης Τριανταφυλλίδης"
+                  },
+                  {
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "primary": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "type-id": null,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "name": "Χάρρυ Κλυνν International",
+                    "ended": false,
+                    "primary": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null
+                  }
+                ],
+                "name": "Χάρρυ Κλυνν",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+              },
+              "name": "Χάρρυ Κλυνν"
+            }
+          ],
+          "position": 12,
+          "number": "12",
+          "length": null
+        },
+        {
+          "number": "13",
+          "length": null,
+          "artist-credit": [
+            {
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "aliases": [
+                  {
+                    "end": null,
+                    "primary": true,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "ended": false,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "locale": "el",
+                    "begin": null,
+                    "type": null
+                  },
+                  {
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "primary": null,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "name": "Χάρρυ Κλυνν International",
+                    "ended": false,
+                    "primary": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "position": 13,
+          "recording": {
+            "id": "55ed5435-c7a6-4e9c-b11f-fbaf445a4744",
+            "title": "Το τραγούδι της Ε.Ο.Κ.",
+            "artist-credit": [
+              {
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "aliases": [],
+            "video": false,
+            "length": null
+          },
+          "title": "Το τραγούδι της Ε.Ο.Κ.",
+          "id": "de723e83-2db7-48c1-8117-10caf1dc52ec"
+        },
+        {
+          "number": "14",
+          "length": null,
+          "position": 14,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "name": "Χάρρυ Κλυνν",
+                "aliases": [
+                  {
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "type": null,
+                    "begin": null,
+                    "locale": "el",
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "primary": true,
+                    "end": null
+                  },
+                  {
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "type-id": null,
+                    "primary": null,
+                    "end": null
+                  },
+                  {
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "primary": null,
+                    "end": null
+                  }
+                ],
+                "disambiguation": "",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "sort-name": "Klynn, Harry"
+              }
+            }
+          ],
+          "title": "Τραμπάκουλας ο γ'",
+          "recording": {
+            "video": false,
+            "length": null,
+            "title": "Τραμπάκουλας ο γ'",
+            "id": "212f750e-1bfb-4d00-ba12-f877484e1871",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "sort-name": "Klynn, Harry"
+                }
+              }
+            ],
+            "disambiguation": "",
+            "aliases": []
+          },
+          "id": "95bee78b-a19f-4d06-a0d4-bdceaf58fdf4"
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "type": null,
+                    "begin": null,
+                    "locale": "el",
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "primary": true,
+                    "end": null
+                  },
+                  {
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρι Κλιν",
+                    "primary": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "type-id": null,
+                    "end": null
+                  },
+                  {
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "primary": null,
+                    "name": "Χάρρυ Κλυνν International",
+                    "ended": false,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "end": null
+                  }
+                ],
+                "name": "Χάρρυ Κλυνν",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "sort-name": "Klynn, Harry"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "position": 15,
+          "title": "Το τραγούδι της Ε.Ο.Κ. (Συνέχεια)",
+          "recording": {
+            "video": false,
+            "length": null,
+            "aliases": [],
+            "disambiguation": "",
+            "id": "095fa323-fb48-4629-847a-0c7fbbd1e61f",
+            "title": "Το τραγούδι της Ε.Ο.Κ. (Συνέχεια)",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                },
+                "name": "Χάρρυ Κλυνν"
+              }
+            ]
+          },
+          "id": "bbb02e79-8325-44e7-93f7-f90b483a12d2",
+          "number": "15",
+          "length": null
+        },
+        {
+          "number": "16",
+          "length": null,
+          "title": "Ευρωνταλκαδιάρικο",
+          "recording": {
+            "disambiguation": "",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                }
+              }
+            ],
+            "id": "39882ba6-04f9-416c-8c54-b735ec11e6ee",
+            "title": "Ευρωνταλκαδιάρικο",
+            "length": null,
+            "video": false
+          },
+          "id": "bfbb97c5-4857-4ad9-8e57-e8bea0ab2dae",
+          "position": 16,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "aliases": [
+                  {
+                    "end": null,
+                    "ended": false,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "begin": null,
+                    "type": null,
+                    "locale": "el",
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "primary": true
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "ended": false,
+                    "name": "Χάρι Κλιν",
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "primary": null,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "name": "Χάρρυ Κλυνν International",
+                    "ended": false
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν",
+                "sort-name": "Klynn, Harry"
+              },
+              "name": "Χάρρυ Κλυνν"
+            }
+          ]
+        },
+        {
+          "length": null,
+          "number": "17",
+          "recording": {
+            "video": false,
+            "length": null,
+            "title": "Δέκατο τρίτο πρόγραμμα",
+            "id": "9080e2b5-9db5-46ad-bf55-376e9e328935",
+            "artist-credit": [
+              {
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "disambiguation": "",
+            "aliases": []
+          },
+          "id": "780767b8-1597-4bbd-896e-ef890fbdf798",
+          "title": "Δέκατο τρίτο πρόγραμμα",
+          "position": 17,
+          "artist-credit": [
+            {
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "aliases": [
+                  {
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "primary": true,
+                    "begin": null,
+                    "type": null,
+                    "locale": "el",
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "begin": null,
+                    "locale": null,
+                    "type": null
+                  },
+                  {
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "primary": null,
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "end": null
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "sort-name": "Klynn, Harry"
+              },
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "id": "6852adb9-d45f-45a6-99c4-32874081bdfb",
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν"
+                }
+              }
+            ],
+            "id": "1d62210b-f82d-4cf9-b2c2-336dc956d48b",
+            "title": "Ω κατανάλωση",
+            "disambiguation": "",
+            "aliases": [],
+            "length": null,
+            "video": false
+          },
+          "title": "Ω κατανάλωση",
+          "position": 18,
+          "artist-credit": [
+            {
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "name": "Χάρρυ Κλυνν",
+                "aliases": [
+                  {
+                    "begin": null,
+                    "type": null,
+                    "locale": "el",
+                    "ended": false,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "primary": true,
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "sort-name": "Χάρι Κλιν",
+                    "type-id": null,
+                    "primary": null
+                  },
+                  {
+                    "end": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "primary": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "begin": null,
+                    "type": null,
+                    "locale": null
+                  }
+                ],
+                "disambiguation": ""
+              },
+              "name": "Χάρρυ Κλυνν",
+              "joinphrase": ""
+            }
+          ],
+          "number": "18",
+          "length": null
+        },
+        {
+          "recording": {
+            "aliases": [],
+            "disambiguation": "",
+            "artist-credit": [
+              {
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "d008a91d-44f3-4a0a-8feb-5ce959ba94ba",
+            "title": "Ανταπόκριση από Καλαμάτα",
+            "length": null,
+            "video": false
+          },
+          "title": "Ανταπόκριση από Καλαμάτα",
+          "id": "5768ea06-9b6b-4f37-8e13-ce7b6e20dbd5",
+          "artist-credit": [
+            {
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "name": "Χάρρυ Κλυνν",
+                "aliases": [
+                  {
+                    "end": null,
+                    "primary": true,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "type": null,
+                    "begin": null,
+                    "locale": "el",
+                    "ended": false,
+                    "name": "Βασίλης Τριανταφυλλίδης"
+                  },
+                  {
+                    "end": null,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "sort-name": "Χάρι Κλιν",
+                    "type-id": null,
+                    "primary": null
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "locale": null,
+                    "begin": null,
+                    "type": null
+                  }
+                ],
+                "disambiguation": "",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "position": 19,
+          "length": null,
+          "number": "19"
+        },
+        {
+          "id": "49750b4d-0cd1-4541-a2f9-f620cfd95679",
+          "recording": {
+            "length": null,
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": "",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "sort-name": "Klynn, Harry"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "id": "c2c5b196-8d28-4f4a-913b-03e8e4805950",
+            "title": "Αραπάδες και μαρούλια",
+            "aliases": [],
+            "disambiguation": ""
+          },
+          "title": "Αραπάδες και μαρούλια",
+          "position": 20,
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "aliases": [
+                  {
+                    "end": null,
+                    "ended": false,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "begin": null,
+                    "type": null,
+                    "locale": "el",
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "primary": true
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "locale": null,
+                    "begin": null,
+                    "type": null,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "begin": null,
+                    "locale": null,
+                    "type": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "primary": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type-id": null
+                  }
+                ],
+                "disambiguation": "",
+                "name": "Χάρρυ Κλυνν",
+                "sort-name": "Klynn, Harry"
+              },
+              "name": "Χάρρυ Κλυνν",
+              "joinphrase": ""
+            }
+          ],
+          "length": null,
+          "number": "20"
+        },
+        {
+          "length": null,
+          "number": "21",
+          "artist-credit": [
+            {
+              "artist": {
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "name": "Χάρρυ Κλυνν",
+                "aliases": [
+                  {
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "locale": "el",
+                    "begin": null,
+                    "type": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "primary": true,
+                    "end": null
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "type-id": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "type": null,
+                    "begin": null,
+                    "locale": null
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "end": null
+                  }
+                ],
+                "disambiguation": "",
+                "sort-name": "Klynn, Harry"
+              },
+              "name": "Χάρρυ Κλυνν",
+              "joinphrase": ""
+            }
+          ],
+          "position": 21,
+          "title": "Κουλτούρικο",
+          "recording": {
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν"
+                }
+              }
+            ],
+            "id": "6cc55226-f2fa-42d6-8b0b-fd3c0f46834d",
+            "title": "Κουλτούρικο",
+            "aliases": [],
+            "disambiguation": "",
+            "length": null,
+            "video": false
+          },
+          "id": "e01c9b94-8a23-4660-b7c5-9ff957209f13"
+        },
+        {
+          "number": "22",
+          "length": null,
+          "recording": {
+            "video": false,
+            "length": null,
+            "title": "Μετά εκατό χρόνια",
+            "id": "2f35f29d-c31d-4cb9-9add-e95b8000e691",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "name": "Χάρρυ Κλυνν",
+                  "disambiguation": ""
+                }
+              }
+            ],
+            "disambiguation": "",
+            "aliases": []
+          },
+          "title": "Μετά εκατό χρόνια",
+          "id": "fd5bb59d-7b93-49f8-ab61-05d2d357ab49",
+          "position": 22,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "end": null,
+                    "primary": true,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "begin": null,
+                    "locale": "el",
+                    "type": null
+                  },
+                  {
+                    "end": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "primary": null,
+                    "begin": null,
+                    "locale": null,
+                    "type": null,
+                    "name": "Χάρι Κλιν",
+                    "ended": false
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "begin": null,
+                    "type": null,
+                    "locale": null,
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "end": null
+                  }
+                ],
+                "name": "Χάρρυ Κλυνν"
+              }
+            }
+          ]
+        },
+        {
+          "length": null,
+          "number": "23",
+          "title": "Άβαλα μαντάβαλα",
+          "recording": {
+            "video": false,
+            "length": null,
+            "title": "Άβαλα μαντάβαλα",
+            "id": "e7da95ca-d5e6-4917-8ab7-8039f86d0e26",
+            "artist-credit": [
+              {
+                "name": "Χάρρυ Κλυνν",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "aliases": [],
+            "disambiguation": ""
+          },
+          "id": "1c5d2222-4f8d-46e7-a6a7-5521c9a5d066",
+          "position": 23,
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "name": "Χάρρυ Κλυνν",
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "end": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "type-id": null,
+                    "primary": true,
+                    "locale": "el",
+                    "begin": null,
+                    "type": null,
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false
+                  },
+                  {
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "end": null
+                  },
+                  {
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "ended": false,
+                    "name": "Χάρρυ Κλυνν International",
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "end": null
+                  }
+                ],
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+              },
+              "name": "Χάρρυ Κλυνν"
+            }
+          ]
+        },
+        {
+          "position": 24,
+          "artist-credit": [
+            {
+              "name": "Χάρρυ Κλυνν",
+              "artist": {
+                "sort-name": "Klynn, Harry",
+                "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "end": null,
+                    "type": null,
+                    "begin": null,
+                    "locale": "el",
+                    "name": "Βασίλης Τριανταφυλλίδης",
+                    "ended": false,
+                    "type-id": null,
+                    "sort-name": "Βασίλης Τριανταφυλλίδης",
+                    "primary": true
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρι Κλιν",
+                    "name": "Χάρι Κλιν",
+                    "ended": false,
+                    "begin": null,
+                    "locale": null,
+                    "type": null
+                  },
+                  {
+                    "end": null,
+                    "primary": null,
+                    "type-id": null,
+                    "sort-name": "Χάρρυ Κλυνν International",
+                    "type": null,
+                    "begin": null,
+                    "locale": null,
+                    "name": "Χάρρυ Κλυνν International",
+                    "ended": false
+                  }
+                ],
+                "name": "Χάρρυ Κλυνν"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "title": "Finale",
+          "recording": {
+            "video": false,
+            "length": null,
+            "id": "c528dca0-97d3-42bf-b673-6fc5b8807ab8",
+            "title": "Finale",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "sort-name": "Klynn, Harry",
+                  "disambiguation": "",
+                  "name": "Χάρρυ Κλυνν",
+                  "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a"
+                },
+                "name": "Χάρρυ Κλυνν"
+              }
+            ],
+            "disambiguation": "",
+            "aliases": []
+          },
+          "id": "f6dc7c76-3e4f-4749-b3ed-433664ed5be3",
+          "number": "24",
+          "length": null
+        }
+      ],
+      "track-offset": 0,
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "track-count": 24,
+      "format": "12\" Vinyl",
+      "title": "",
+      "position": 1,
+      "discs": []
+    }
+  ],
+  "artist-credit": [
+    {
+      "artist": {
+        "sort-name": "Klynn, Harry",
+        "id": "79d8c178-ad38-44c5-b4c7-64ab9a2b426a",
+        "disambiguation": "",
+        "aliases": [
+          {
+            "end": null,
+            "type-id": null,
+            "sort-name": "Βασίλης Τριανταφυλλίδης",
+            "primary": true,
+            "name": "Βασίλης Τριανταφυλλίδης",
+            "ended": false,
+            "begin": null,
+            "locale": "el",
+            "type": null
+          },
+          {
+            "sort-name": "Χάρι Κλιν",
+            "type-id": null,
+            "primary": null,
+            "ended": false,
+            "name": "Χάρι Κλιν",
+            "locale": null,
+            "begin": null,
+            "type": null,
+            "end": null
+          },
+          {
+            "end": null,
+            "locale": null,
+            "begin": null,
+            "type": null,
+            "ended": false,
+            "name": "Χάρρυ Κλυνν International",
+            "primary": null,
+            "type-id": null,
+            "sort-name": "Χάρρυ Κλυνν International"
+          }
+        ],
+        "name": "Χάρρυ Κλυνν"
+      },
+      "name": "Χάρρυ Κλυνν",
+      "joinphrase": ""
+    }
+  ],
+  "asin": null,
+  "barcode": null,
+  "cover-art-archive": {
+    "front": false,
+    "artwork": false,
+    "count": 0,
+    "darkened": false,
+    "back": false
+  },
+  "disambiguation": "",
+  "title": "Πατάτες",
+  "id": "280b0e15-57f5-4f4e-a51c-982fdf54ea8e",
+  "packaging-id": null,
+  "quality": "normal",
+  "status": "Official",
+  "date": "1981",
+  "aliases": [],
+  "packaging": null
+}

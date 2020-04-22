@@ -1,0 +1,4 @@
+---
+layout: album
+albumid: 82f1fb24-ed45-4e22-8a31-ab2994333e1b
+---

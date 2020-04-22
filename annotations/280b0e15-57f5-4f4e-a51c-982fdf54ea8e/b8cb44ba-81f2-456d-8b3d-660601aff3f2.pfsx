@@ -73,7 +73,7 @@
         <Object class="java.awt.Rectangle">1130,650,725,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>43510</Long>
+        <Long>1720</Long>
     </pref>
     <prefList key="ExportToolbox.selectedTiers">
         <String>Character</String>
@@ -99,7 +99,7 @@
         <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>51666</Long>
+        <Long>1720</Long>
     </pref>
     <prefList key="ExportCHATDialog.mainTierTable.Character">
         <Boolean>true</Boolean>
@@ -113,11 +113,11 @@
         <pref key="Script">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
-        <pref key="Voice quality">
-            <Object class="java.awt.Color">160,160,0</Object>
-        </pref>
         <pref key="Character">
             <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="Voice quality">
+            <Object class="java.awt.Color">160,160,0</Object>
         </pref>
         <pref key="Events">
             <Object class="java.awt.Color">90,90,0</Object>
@@ -173,7 +173,7 @@
         <String>Script</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>50560</Long>
+        <Long>9790</Long>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Sender">
@@ -260,11 +260,11 @@
         <String>Tier</String>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="source_audio">
-            <String>///home/thanasis/Documents/programming/harry-klynn-annotate/audio/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/b8cb44ba-81f2-456d-8b3d-660601aff3f2.wav</String>
-        </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///home/thanasis/Documents/programming/harry-klynn-annotate/audio/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/b8cb44ba-81f2-456d-8b3d-660601aff3f2.wav</String>
         </pref>
     </prefGroup>
     <prefList key="ExportCHATDialog.mainTierTable.Events">

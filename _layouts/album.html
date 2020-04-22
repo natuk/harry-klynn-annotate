@@ -4,10 +4,29 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+  {% for album in site.data.albumlist %}
+    {% if album.albumid == page.albumid %}
+    <h1 class="post-title">{{ album.albumtitle }}</h1>
+    {% endif %}
+  {% endfor %}
   </header>
 
   <div class="post-content">
+  {% assign album = site.data.albums[page.albumid] %}
+    <ol>
+      {% for medium in album.media %}
+      <li>Media title: {{ medium.title }}<br />
+      Tracks:
+        <ol>
+        {% for track in medium.tracks %}
+          <li>
+            <a href="{{ 'tracks/' | append: page.albumid | append: '/' | append: track.recording.id | append: '.html' | relative_url }}">{{ track.title }}</a> <span class="mblink"><a href="https://musicbrainz.org/recording/{{ track.recording.id }}">View on Musicbrainz</a></span>
+          </li>
+        {% endfor %}
+        </ol>
+      </li>
+      {% endfor %}
+    </ol>
     {{ content }}
   </div>
 

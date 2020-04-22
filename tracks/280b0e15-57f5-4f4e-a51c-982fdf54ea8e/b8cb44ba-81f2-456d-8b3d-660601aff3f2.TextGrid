@@ -293,9 +293,7 @@ item []:
         intervals [9]
             xmin = 25.976
             xmax = 29.047
-            text = "Μαρμαρένια αλώνια:
-https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B3%CE%B5%CE%BD%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%AF%CF%84%CE%B1%CF%82
-https://www.fractalart.gr/digenis-akritas/"
+            text = "Μαρμαρένια αλώνια: https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B3%CE%B5%CE%BD%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%AF%CF%84%CE%B1%CF%82 https://www.fractalart.gr/digenis-akritas/"
         intervals [10]
             xmin = 29.047
             xmax = 30.619
