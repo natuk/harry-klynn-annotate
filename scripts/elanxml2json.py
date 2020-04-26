@@ -4,6 +4,21 @@ from operator import itemgetter
 import optparse
 import sys
 
+def processannotation(item):
+    # item should be a list like where:
+    # item[0] is the annotation id,
+    # item[1] is the annotation text whic may include multiple values separated by |,
+    # item[2] is the annotation tier
+    i = 0
+    newitem = []
+    item[1] = item[1].split("|")
+    for annotation in item[1]:
+        if annotation.find("viaf:") > 0:
+            annotation = annotation.replace("viaf:", "https://viaf.org/viaf/")
+        i = i + 1
+        newitem.append([item[0] + "-" + str(i), annotation, item[2]])
+    return newitem
+
 p = optparse.OptionParser(
     description='Converts ELAN XML to JSON.  Reads from standard input by default, or from file if given.',
     prog='elanxml2json',
@@ -22,6 +37,9 @@ if len(arguments) == 1:
         sys.exit(-1)
 
 xmldoc = et.parse(inputstream)
+
+#inputstream = "/home/thanasis/Documents/programming/harry-klynn-annotate/annotations/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/b8cb44ba-81f2-456d-8b3d-660601aff3f2.eaf"
+#xmldoc = et.parse(inputstream)
 
 tsr1 = ""
 tsr2 = ""
@@ -59,18 +77,25 @@ for item in paa: # loop through every annotation
     try:
         if item[0] == npaa[i - 1]['start'] and item[1] == npaa[i - 1]['end']: # if the start time of the current paa annotation is the same as the last annotation from npaa
             temprow = []
-            for itemtwo in npaa[i - 1]['annotation']: # create a temporary array of the annotations in npaa
+            newannotations = []
+            for itemtwo in npaa[i - 1]['annotation']: # create a temporary array of the annotations in npaa call itemtwo
                 temprow.append({"id": itemtwo['id'], "text": itemtwo['text'], "tier": itemtwo['tier']})
             # temprow.append([item[2], item[3], item[4]]) # and add the current annotation from paa in it
-            temprow.append({"id": item[2], "text": item[3], "tier": item[4]})
+            newannotations = processannotation([item[2], item[3], item[4]]) # process the current annotation
+            for newannotation in newannotations:
+                temprow.append({"id": newannotation[0], "text": newannotation[1], "tier": newannotation[2]})
             npaa[i-1]['annotation'] = temprow # then replace what is there already with the new term row
         else:
             #npaa.append([ item[0], item[1], [[item[2], item[3], item[4]]] ])
-            npaa.append({"start": item[0], "end": item[1], "annotation": [{"id": item[2], "text": item[3], "tier": item[4]}]})
-            i = i + 1
+            annotations = processannotation([item[2], item[3], item[4]])
+            for annotation in annotations:
+                npaa.append({"start": item[0], "end": item[1], "annotation": [{"id": annotation[0], "text": annotation[1], "tier": annotation[2]}]})
+                i = i + 1
     except:
-        npaa.append({"start": item[0], "end": item[1], "annotation": [{"id": item[2], "text": item[3], "tier": item[4]}]})
-        i = i + 1
+        annotations = processannotation([item[2], item[3], item[4]])
+        for annotation in annotations:
+            npaa.append({"start": item[0], "end": item[1], "annotation": [{"id": annotation[0], "text": annotation[1], "tier": annotation[2]}]})
+            i = i + 1
 
 json_string = json.dumps(npaa, ensure_ascii=False, indent=4)
 

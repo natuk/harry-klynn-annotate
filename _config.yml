@@ -31,6 +31,7 @@ github_username:  natuk
 theme: minima
 plugins:
   - jekyll-feed
+#  - jekyll-extlinks
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +52,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#extlinks:
+#  attributes: {rel: nofollow, target: _blank}
+#  rel_exclude: ['localhost:4000', 'natuk.github.io']

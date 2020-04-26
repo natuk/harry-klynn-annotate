@@ -1,6 +1,0 @@
----
-layout: person
-title: Ανδρέας Παπανδρέου
-personid: 36956756
-wplink: https://en.wikipedia.org/wiki/Andreas_Papandreou
----

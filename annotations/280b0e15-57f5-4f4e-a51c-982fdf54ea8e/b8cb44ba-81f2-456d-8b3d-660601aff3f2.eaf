@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-04-16T16:47:16+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-04-23T20:32:12+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/thanasis/Documents/programming/harry-klynn-annotate/audio/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/b8cb44ba-81f2-456d-8b3d-660601aff3f2.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../audio/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/b8cb44ba-81f2-456d-8b3d-660601aff3f2.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3fb4208e-e231-4e95-9035-d6ae48dcff56</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">33</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="190"/>
@@ -12,66 +12,58 @@
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1230"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1230"/>
         <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1230"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1720"/>
         <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1720"/>
         <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1720"/>
         <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1720"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="3500"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="4464"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="6726"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="6726"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="7892"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="9790"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="9790"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="9790"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="10260"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="10260"/>
-        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="10260"/>
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="11370"/>
-        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="11370"/>
-        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="11370"/>
-        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="11940"/>
-        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="11940"/>
-        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="11940"/>
-        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="13297"/>
-        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="14249"/>
-        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="16670"/>
-        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="16670"/>
-        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="16670"/>
-        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="21120"/>
-        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="21120"/>
-        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="25976"/>
-        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="29047"/>
-        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="30619"/>
-        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="35940"/>
-        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="36011"/>
-        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="38900"/>
-        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="38900"/>
-        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="39166"/>
-        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="43510"/>
-        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="43510"/>
-        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="43510"/>
-        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="43510"/>
-        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50560"/>
-        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="50560"/>
-        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="50560"/>
-        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="50560"/>
-        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="53220"/>
-        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="53220"/>
-        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="53220"/>
-        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="58980"/>
-        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="58980"/>
-        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="58980"/>
-        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="62075"/>
-        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="62660"/>
-        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="62660"/>
-        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="63000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="63010"/>
-        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="63270"/>
-        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="63360"/>
-        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="63360"/>
-        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="66880"/>
-        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="66880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="9790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="9790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="9790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="9790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="10260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="10260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="10260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="11370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="11370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="11370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="11940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="11940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="11940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="11940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="16670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="16670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="16670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="16670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="21120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="21120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="21120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="38900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="38900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="38900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="43510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="43510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="43510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="43510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="50560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="50560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="50560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="50560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="53220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="53220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="53220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="58980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="58980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="58980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="62075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="62660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="62660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="63000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="63010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="63270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="63360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="63360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="66880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="66880"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Character">
         <ANNOTATION>
@@ -80,17 +72,17 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts16">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts11">
                 <ANNOTATION_VALUE>Ανδρέας Παπανδρέου</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts22">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts18">
                 <ANNOTATION_VALUE>Κωνσταντίνος Καραμανλής / Εργολάβος</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts30">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts25">
                 <ANNOTATION_VALUE>Ανδρέας Παπανδρέου</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -102,32 +94,32 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts17">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>Χάρρυ Κλύνν</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
                 <ANNOTATION_VALUE>Χάρρυ Κλύνν</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts31">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts26">
                 <ANNOTATION_VALUE>Χάρρυ Κλύνν</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts40">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts32">
                 <ANNOTATION_VALUE>Χορωδία</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts39">
                 <ANNOTATION_VALUE>Χάρρυ Κλύνν</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts54">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts46">
                 <ANNOTATION_VALUE>Χάρρυ Κλύνν</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -139,115 +131,93 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts18">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
                 <ANNOTATION_VALUE>Το οικόπεδο αυτό ανήκει στους αυτόχθονες ιθαγενείς κύριε εργολάβε και αυτοί θα αποφασίσουν</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts24">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts20">
                 <ANNOTATION_VALUE>Και πώς θα απόφασίσουν;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts32">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts27">
                 <ANNOTATION_VALUE>Θα παίξουμε τις πιτσικουλιές κύριε εργολάβε και όποιος νικήσει.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts41">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
                 <ANNOTATION_VALUE>Και 'παίξαν τις πιτσί... πιτσί... πιτσί... πιτσικουλιές στα μαρμαρένια αλώνια και παίζει ο πρώ... ο πρώ... ο πρώ... ο πρώτος δεξιά, ο δεύτερος στο κέντρο</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
                 <ANNOTATION_VALUE>Και ο τρίτος παίζει αριστερά</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
                 <ANNOTATION_VALUE>Ώρε και τέταρτο δεν έχει</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts65">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
                 <ANNOTATION_VALUE>Βαρούν και τα κλαρίνα</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Voice quality">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts49">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts41">
                 <ANNOTATION_VALUE>Camp?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts48">
                 <ANNOTATION_VALUE>Βλάχικη</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts66">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
                 <ANNOTATION_VALUE>Camp?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Events">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
                 <ANNOTATION_VALUE>Φτύσιμο</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
                 <ANNOTATION_VALUE>Σφαλιάρα</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
                 <ANNOTATION_VALUE>Κραυγή</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Reference">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts11">
-                <ANNOTATION_VALUE>"Το οικόπεδο αυτό": Ελλάδα</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>"το οικόπεδο αυτό": Ελλάδα|"αυτόχθονες ιθαγενείς: Έλληνες"|"εργολάβος": Αναφορά στην αυθαιρεσία. Την δεκαετία του 80 πολλοί προσπαθούσαν να χτίσουν σπίτια σε οικόπεδα (αυθαίρετα) δίχως πολεοδομική άδεια με τη βοήθεια εργολάβων.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>"Αυτόχθονες ιθαγενείς": Έλληνες</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>["πιτσικουλιές"](https://www.slang.gr/definition/5504-pitsikoulies)</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE>"Εργολάβος": αναφορά στην αυθαιρεσία. Την δεκαετία του 80 πολλοί προσπαθούσαν να χτίσουν σπίτια σε οικόπεδα δίχως πολεοδομική άδεια με τη βοήθεια εργολάβων.</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>[Μαρμαρένια αλώνια](https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B3%CE%B5%CE%BD%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%AF%CF%84%CE%B1%CF%82)|[Μαρμαρένια αλώνια](https://www.fractalart.gr/digenis-akritas/)|"Και παίζει ο πρώτος δεξιά": αναφορά στον [Κωνσταντίνο Καραμανλή](viaf:32004905) σαν ιδρυτής και πρόεδρος της [Νέας Δημοκρατίας](https://el.wikipedia.org/wiki/%CE%9D%CE%AD%CE%B1_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1), δηλ. δεξιού κόμματος|"Ο δεύτερος στο κέντρο": αναφορά στον [Αντρέα Παπανδρέου](viaf:36956756), ιδρυτή και πρόεδρου του [Πανελλήνιου Σοσιαλιστικού Κινήματος](https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%AE%CE%BD%CE%B9%CE%BF_%CE%A3%CE%BF%CF%83%CE%B9%CE%B1%CE%BB%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%9A%CE%AF%CE%BD%CE%B7%CE%BC%CE%B1), δηλ. κόμματος που προσδιορίζεται ως κέντρο.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>"Πιτσικουλιές": https://www.slang.gr/definition/5504-pitsikoulies</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>Μαρμαρένια αλώνια:
-https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B3%CE%B5%CE%BD%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%AF%CF%84%CE%B1%CF%82
-https://www.fractalart.gr/digenis-akritas/</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>"Και παίζει ο πρώτος δεξιά": αναφορά στον Κωνσταντίνο Καραμανλή σαν ιδρυτής και πρόεδρος της Νέας Δημοκρατίας, δηλ. δεξιού κόμματος https://el.wikipedia.org/wiki/%CE%9D%CE%AD%CE%B1_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>"Ο δεύτερος στο κέντρο": αναφορά στον Αντρέα Παπανδρέου, ιδρυτή και πρόεδρου του Πανελλήνιου Σοσιαλιστικού Κινήματος, δηλ. κόμματος που προσδιορίζεται ως κέντρο. https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%AE%CE%BD%CE%B9%CE%BF_%CE%A3%CE%BF%CF%83%CE%B9%CE%B1%CE%BB%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%9A%CE%AF%CE%BD%CE%B7%CE%BC%CE%B1</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts50">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts42">
                 <ANNOTATION_VALUE>"Και ο τρίτος παίζει αριστερά": πιθανή αναφορά στον Χαρίλαο Φλωράκη και το Κομμουνιστικό Κόμμα Ελλάδας, δηλ. κόμμα της αριστεράς.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>

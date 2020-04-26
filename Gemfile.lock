@@ -113,6 +113,9 @@ GEM
       rouge (>= 2.0, < 4.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
+    jekyll-extlinks (0.0.4)
+      jekyll (~> 3.0)
+      nokogiri (~> 1.6)
     jekyll-feed (0.13.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
@@ -246,6 +249,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 204)
+  jekyll-extlinks
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   tzinfo (~> 1.2)

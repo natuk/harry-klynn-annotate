@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Harry Klynn Annotate
 
-You can use the [editor on GitHub](https://github.com/natuk/harry-klynn-annotate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a website which presents audio tracks with a running set of annotations about the track. It hosts tracks from albums created by the Greek comedian Harry Klynn, but the same setup can be used for any track annotation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How it works
 
-### Markdown
+Data about the albums and tracks are downloaded from MusicBrainz as CSV (for the list of albums) and JSON (for the individual tracks).
+Annotations for the tracks are produced manually using ELAN.
+ELAN saves data as XML files with own schema. A python scipt is used to transform these XML files to JSON.
+These data files is stored in the _data folder.
+The website is build on Jekyll and hosted on GitHub over here.
+The magic for the scrolling annotations is provided by the able library.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Harry Klynn
 
-```markdown
-Syntax highlighted code block
+[Harry Klynn](https://en.wikipedia.org/wiki/Vasilis_Triantafillidis) was a Greek comedian who produced a series of record albums from 1978 until 2002 with
 
-# Header 1
-## Header 2
-### Header 3
+## Authority files
 
-- Bulleted
-- List
+VIAF
+MusicBrainz
 
-1. Numbered
-2. List
+## ELAN annotation conventions
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/natuk/harry-klynn-annotate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For the able viewer to work neatly we need the ELAN annotation timeslot to match broadly across all tiers. In ELAN it it not possible to create multiple annotations on the same tier and for the same timeslot. This is useful for multiple references in this project. To go around this problem we separate each reference using `|`. Links are produced using markdown's convention of `[link name](link url)`. For links to authority files

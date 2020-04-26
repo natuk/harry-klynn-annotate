@@ -4,30 +4,19 @@
         "end": 1.23,
         "annotation": [
             {
-                "id": "a1",
+                "id": "a1-1",
                 "text": "Κωνσταντίνος Καραμανλής / Εργολάβος",
                 "tier": "Character"
             },
             {
-                "id": "a5",
+                "id": "a5-1",
                 "text": "Χάρρυ Κλύνν",
                 "tier": "Actor"
             },
             {
-                "id": "a12",
+                "id": "a12-1",
                 "text": "Εδώ θα οικοδομήσω",
                 "tier": "Script"
-            }
-        ]
-    },
-    {
-        "start": 1.714,
-        "end": 3.5,
-        "annotation": [
-            {
-                "id": "a26",
-                "text": "\"Το οικόπεδο αυτό\": Ελλάδα",
-                "tier": "Reference"
             }
         ]
     },
@@ -36,40 +25,33 @@
         "end": 9.79,
         "annotation": [
             {
-                "id": "a2",
+                "id": "a2-1",
                 "text": "Ανδρέας Παπανδρέου",
                 "tier": "Character"
             },
             {
-                "id": "a6",
+                "id": "a6-1",
                 "text": "Χάρρυ Κλύνν",
                 "tier": "Actor"
             },
             {
-                "id": "a13",
+                "id": "a13-1",
                 "text": "Το οικόπεδο αυτό ανήκει στους αυτόχθονες ιθαγενείς κύριε εργολάβε και αυτοί θα αποφασίσουν",
                 "tier": "Script"
-            }
-        ]
-    },
-    {
-        "start": 4.464,
-        "end": 6.726,
-        "annotation": [
+            },
             {
-                "id": "a27",
-                "text": "\"Αυτόχθονες ιθαγενείς\": Έλληνες",
+                "id": "a34-1",
+                "text": "\"το οικόπεδο αυτό\": Ελλάδα",
                 "tier": "Reference"
-            }
-        ]
-    },
-    {
-        "start": 6.726,
-        "end": 7.892,
-        "annotation": [
+            },
             {
-                "id": "a28",
-                "text": "\"Εργολάβος\": αναφορά στην αυθαιρεσία. Την δεκαετία του 80 πολλοί προσπαθούσαν να χτίσουν σπίτια σε οικόπεδα δίχως πολεοδομική άδεια με τη βοήθεια εργολάβων.",
+                "id": "a34-2",
+                "text": "\"αυτόχθονες ιθαγενείς: Έλληνες\"",
+                "tier": "Reference"
+            },
+            {
+                "id": "a34-3",
+                "text": "\"εργολάβος\": Αναφορά στην αυθαιρεσία. Την δεκαετία του 80 πολλοί προσπαθούσαν να χτίσουν σπίτια σε οικόπεδα (αυθαίρετα) δίχως πολεοδομική άδεια με τη βοήθεια εργολάβων.",
                 "tier": "Reference"
             }
         ]
@@ -79,17 +61,17 @@
         "end": 11.37,
         "annotation": [
             {
-                "id": "a3",
+                "id": "a3-1",
                 "text": "Κωνσταντίνος Καραμανλής / Εργολάβος",
                 "tier": "Character"
             },
             {
-                "id": "a7",
+                "id": "a7-1",
                 "text": "Χάρρυ Κλύνν",
                 "tier": "Actor"
             },
             {
-                "id": "a14",
+                "id": "a14-1",
                 "text": "Και πώς θα απόφασίσουν;",
                 "tier": "Script"
             }
@@ -100,29 +82,23 @@
         "end": 16.67,
         "annotation": [
             {
-                "id": "a4",
+                "id": "a4-1",
                 "text": "Ανδρέας Παπανδρέου",
                 "tier": "Character"
             },
             {
-                "id": "a8",
+                "id": "a8-1",
                 "text": "Χάρρυ Κλύνν",
                 "tier": "Actor"
             },
             {
-                "id": "a15",
+                "id": "a15-1",
                 "text": "Θα παίξουμε τις πιτσικουλιές κύριε εργολάβε και όποιος νικήσει.",
                 "tier": "Script"
-            }
-        ]
-    },
-    {
-        "start": 13.297,
-        "end": 14.249,
-        "annotation": [
+            },
             {
-                "id": "a30",
-                "text": "\"Πιτσικουλιές\": https://www.slang.gr/definition/5504-pitsikoulies",
+                "id": "a35-1",
+                "text": "[\"πιτσικουλιές\"](https://www.slang.gr/definition/5504-pitsikoulies)",
                 "tier": "Reference"
             }
         ]
@@ -132,46 +108,33 @@
         "end": 38.9,
         "annotation": [
             {
-                "id": "a9",
+                "id": "a9-1",
                 "text": "Χορωδία",
                 "tier": "Actor"
             },
             {
-                "id": "a16",
+                "id": "a16-1",
                 "text": "Και 'παίξαν τις πιτσί... πιτσί... πιτσί... πιτσικουλιές στα μαρμαρένια αλώνια και παίζει ο πρώ... ο πρώ... ο πρώ... ο πρώτος δεξιά, ο δεύτερος στο κέντρο",
                 "tier": "Script"
-            }
-        ]
-    },
-    {
-        "start": 25.976,
-        "end": 29.047,
-        "annotation": [
+            },
             {
-                "id": "a29",
-                "text": "Μαρμαρένια αλώνια:\nhttps://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B3%CE%B5%CE%BD%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%AF%CF%84%CE%B1%CF%82\nhttps://www.fractalart.gr/digenis-akritas/",
+                "id": "a36-1",
+                "text": "[Μαρμαρένια αλώνια](https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B3%CE%B5%CE%BD%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%AF%CF%84%CE%B1%CF%82)",
                 "tier": "Reference"
-            }
-        ]
-    },
-    {
-        "start": 30.619,
-        "end": 35.94,
-        "annotation": [
+            },
             {
-                "id": "a31",
-                "text": "\"Και παίζει ο πρώτος δεξιά\": αναφορά στον Κωνσταντίνο Καραμανλή σαν ιδρυτής και πρόεδρος της Νέας Δημοκρατίας, δηλ. δεξιού κόμματος https://el.wikipedia.org/wiki/%CE%9D%CE%AD%CE%B1_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1",
+                "id": "a36-2",
+                "text": "[Μαρμαρένια αλώνια](https://www.fractalart.gr/digenis-akritas/)",
                 "tier": "Reference"
-            }
-        ]
-    },
-    {
-        "start": 36.011,
-        "end": 39.166,
-        "annotation": [
+            },
             {
-                "id": "a32",
-                "text": "\"Ο δεύτερος στο κέντρο\": αναφορά στον Αντρέα Παπανδρέου, ιδρυτή και πρόεδρου του Πανελλήνιου Σοσιαλιστικού Κινήματος, δηλ. κόμματος που προσδιορίζεται ως κέντρο. https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%AE%CE%BD%CE%B9%CE%BF_%CE%A3%CE%BF%CF%83%CE%B9%CE%B1%CE%BB%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%9A%CE%AF%CE%BD%CE%B7%CE%BC%CE%B1",
+                "id": "a36-3",
+                "text": "\"Και παίζει ο πρώτος δεξιά\": αναφορά στον [Κωνσταντίνο Καραμανλή](https://viaf.org/viaf/32004905) σαν ιδρυτής και πρόεδρος της [Νέας Δημοκρατίας](https://el.wikipedia.org/wiki/%CE%9D%CE%AD%CE%B1_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1), δηλ. δεξιού κόμματος",
+                "tier": "Reference"
+            },
+            {
+                "id": "a36-4",
+                "text": "\"Ο δεύτερος στο κέντρο\": αναφορά στον [Αντρέα Παπανδρέου](https://viaf.org/viaf/36956756), ιδρυτή και πρόεδρου του [Πανελλήνιου Σοσιαλιστικού Κινήματος](https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B5%CE%BB%CE%BB%CE%AE%CE%BD%CE%B9%CE%BF_%CE%A3%CE%BF%CF%83%CE%B9%CE%B1%CE%BB%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CF%8C_%CE%9A%CE%AF%CE%BD%CE%B7%CE%BC%CE%B1), δηλ. κόμματος που προσδιορίζεται ως κέντρο.",
                 "tier": "Reference"
             }
         ]
@@ -181,22 +144,22 @@
         "end": 50.56,
         "annotation": [
             {
-                "id": "a10",
+                "id": "a10-1",
                 "text": "Χάρρυ Κλύνν",
                 "tier": "Actor"
             },
             {
-                "id": "a17",
+                "id": "a17-1",
                 "text": "Και ο τρίτος παίζει αριστερά",
                 "tier": "Script"
             },
             {
-                "id": "a20",
+                "id": "a20-1",
                 "text": "Camp?",
                 "tier": "Voice quality"
             },
             {
-                "id": "a33",
+                "id": "a33-1",
                 "text": "\"Και ο τρίτος παίζει αριστερά\": πιθανή αναφορά στον Χαρίλαο Φλωράκη και το Κομμουνιστικό Κόμμα Ελλάδας, δηλ. κόμμα της αριστεράς.",
                 "tier": "Reference"
             }
@@ -207,17 +170,17 @@
         "end": 58.98,
         "annotation": [
             {
-                "id": "a11",
+                "id": "a11-1",
                 "text": "Χάρρυ Κλύνν",
                 "tier": "Actor"
             },
             {
-                "id": "a18",
+                "id": "a18-1",
                 "text": "Ώρε και τέταρτο δεν έχει",
                 "tier": "Script"
             },
             {
-                "id": "a21",
+                "id": "a21-1",
                 "text": "Βλάχικη",
                 "tier": "Voice quality"
             }
@@ -228,7 +191,7 @@
         "end": 62.66,
         "annotation": [
             {
-                "id": "a23",
+                "id": "a23-1",
                 "text": "Φτύσιμο",
                 "tier": "Events"
             }
@@ -239,7 +202,7 @@
         "end": 63.0,
         "annotation": [
             {
-                "id": "a24",
+                "id": "a24-1",
                 "text": "Σφαλιάρα",
                 "tier": "Events"
             }
@@ -250,7 +213,7 @@
         "end": 63.27,
         "annotation": [
             {
-                "id": "a25",
+                "id": "a25-1",
                 "text": "Κραυγή",
                 "tier": "Events"
             }
@@ -261,12 +224,12 @@
         "end": 66.88,
         "annotation": [
             {
-                "id": "a19",
+                "id": "a19-1",
                 "text": "Βαρούν και τα κλαρίνα",
                 "tier": "Script"
             },
             {
-                "id": "a22",
+                "id": "a22-1",
                 "text": "Camp?",
                 "tier": "Voice quality"
             }
