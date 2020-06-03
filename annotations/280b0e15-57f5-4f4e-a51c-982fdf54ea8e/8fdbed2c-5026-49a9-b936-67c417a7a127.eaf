@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-06-03T20:27:17+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/thanasis/Documents/programming/harry-klynn-annotate/audio/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/8fdbed2c-5026-49a9-b936-67c417a7a127.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../audio/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/8fdbed2c-5026-49a9-b936-67c417a7a127.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6853dcc1-8ceb-4a61-ae3e-8a0dc02402ee</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">9</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="24570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="24570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="24570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="36000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="36000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="36000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="52000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="52000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="52000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="55185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="55185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="55185"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="66075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="66075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="66075"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Character">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>αφηγητής</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>χορός</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>αφηγητής</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Actor"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Script">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Και δες θάμα και αντίθαμα παράξενο μεγάλο, εβγήκαν όλοι νικητές και 'χάσαν όλοι οι άλλοι, και πήραν το οικόπεδο και παν για να το χτίσουν, ολονυχτίς εχτίζανε το βράδυ εγκρεμιζόταν</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Για να ριζώσει το γιαπί, να θρέψουν οι κολώνες, για να στηθούν παράθυρα και δίφυλες νοτυλάπες, πρέπει γυναίκα να χτιστεί στου λίβινγκ ρουμ το κέντρο.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Τηράν ζερβά, τηράν δεξιά, γυναίκα δε γρηκάνε, τηράν λίγο καλλίτερα και βλέπουν τη Λουκία</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Voice quality"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Events"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Reference">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>"οικόπεδο": Ελλάδα|"ολονυχτίς το χτίζανε, το βράδυ εγκρεμιζόταν": αναφορά στο δημοτικό τραγούδι για το γεφύρι της Άρτας που σημαίνει ότι κάποιο έργο είναι σχεδόν ακατόρθωτο (π.χ. δείτε [εδώ](https://www.mixanitouxronou.gr/olimeris-to-chtizane-to-vradi-egkremizotan-pos-to-gefiri-tis-artas-egine-sinonimo-tou-akatorthotou-ipirxe-gia-chronia-to-fisiko-sinoro-tis-eleftheris-elladas-me-tin-othomaniki-aftokratoria/)). Οι στίχοι του δημοτικού τραγουδιού λένε "ολημερίς". Το "ολονυχτίς" μπορεί να αναφέρεται στο γεγονός ότι έργα στην Ελλάδα είναι κακής ποιότητας, σαν να έχουν γίνει νύχτα και χωρίς οι εργάτες να βλέπουν.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>"γυναίκα να χτιστεί": αναφορά πάλι στο δημοτικό τραγούδι όπου το γεφύρι της Άρτας ολοκληρώθηκε μόνο όταν χτίσαν μέσα του σαν θυσία την κόρη του αρχιμάστορα</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>"Λουκία": γνωστός χαρακτήρας από τους δίσκους του Χάρρυ Κλύνν</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

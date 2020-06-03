@@ -1,0 +1,233 @@
+[
+    {
+        "start": 2.477,
+        "end": 10.433,
+        "annotation": [
+            {
+                "id": "a5-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a16-1",
+                "text": "Η τατζαζλή(;), η ταλατζή(;) ήτανε μούσα αντενια(;) και στα ξανθά της τα μαλλιά ελεύθερη και ωραία",
+                "tier": "Script"
+            },
+            {
+                "id": "a27-1",
+                "text": "Camp",
+                "tier": "Voice quality"
+            }
+        ]
+    },
+    {
+        "start": 11.922,
+        "end": 20.711,
+        "annotation": [
+            {
+                "id": "a6-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a17-1",
+                "text": "Με τίποτα δε κάθονταν να παν για να τη χτίσουν, σαράντα την κρατάγανε για να μην την αφήσουν",
+                "tier": "Script"
+            },
+            {
+                "id": "a28-1",
+                "text": "Camp",
+                "tier": "Voice quality"
+            }
+        ]
+    },
+    {
+        "start": 23.245,
+        "end": 30.578,
+        "annotation": [
+            {
+                "id": "a7-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a18-1",
+                "text": "Τι μπικουτί της τάξανε, χιλιάρικα σε πάκα, τι πιάτσα ιδιωτική να γίνει λέει νάκα(;)",
+                "tier": "Script"
+            },
+            {
+                "id": "a29-1",
+                "text": "Camp",
+                "tier": "Voice quality"
+            }
+        ]
+    },
+    {
+        "start": 32.947,
+        "end": 39.262,
+        "annotation": [
+            {
+                "id": "a8-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a19-1",
+                "text": "Λουκία κάτσε φρόνιμα τριόροφη να γίνεις",
+                "tier": "Script"
+            },
+            {
+                "id": "a30-1",
+                "text": "Camp",
+                "tier": "Voice quality"
+            }
+        ]
+    },
+    {
+        "start": 39.313,
+        "end": 40.15,
+        "annotation": [
+            {
+                "id": "a1-1",
+                "text": "Λούκια",
+                "tier": "Character"
+            },
+            {
+                "id": "a9-1",
+                "text": "Χάρρυ Κλυν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a20-1",
+                "text": "ινάκα(;)",
+                "tier": "Script"
+            }
+        ]
+    },
+    {
+        "start": 40.154,
+        "end": 46.354,
+        "annotation": [
+            {
+                "id": "a10-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a21-1",
+                "text": "Να έχεις τα πατώματα το ένα πάνω στ' άλλο",
+                "tier": "Script"
+            },
+            {
+                "id": "a31-1",
+                "text": "Camp",
+                "tier": "Voice quality"
+            }
+        ]
+    },
+    {
+        "start": 46.367,
+        "end": 47.275,
+        "annotation": [
+            {
+                "id": "a2-1",
+                "text": "Λουκία",
+                "tier": "Character"
+            },
+            {
+                "id": "a11-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a22-1",
+                "text": "ινάκα(;)",
+                "tier": "Script"
+            }
+        ]
+    },
+    {
+        "start": 47.291,
+        "end": 52.891,
+        "annotation": [
+            {
+                "id": "a12-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a23-1",
+                "text": "Νά 'χεις βεράντα από μπρος και κήπο από πίσω",
+                "tier": "Script"
+            },
+            {
+                "id": "a32-1",
+                "text": "Camp",
+                "tier": "Voice quality"
+            }
+        ]
+    },
+    {
+        "start": 52.903,
+        "end": 53.787,
+        "annotation": [
+            {
+                "id": "a3-1",
+                "text": "Λουκία",
+                "tier": "Character"
+            },
+            {
+                "id": "a13-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a24-1",
+                "text": "ινάκα(;)",
+                "tier": "Script"
+            }
+        ]
+    },
+    {
+        "start": 53.816,
+        "end": 59.399,
+        "annotation": [
+            {
+                "id": "a14-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a25-1",
+                "text": "Και μέσα σου το άσανσερ ν'ανεβωκατεβαίνει",
+                "tier": "Script"
+            },
+            {
+                "id": "a33-1",
+                "text": "Camp",
+                "tier": "Voice quality"
+            }
+        ]
+    },
+    {
+        "start": 59.409,
+        "end": 64.459,
+        "annotation": [
+            {
+                "id": "a4-1",
+                "text": "Λουκία",
+                "tier": "Character"
+            },
+            {
+                "id": "a15-1",
+                "text": "Χάρρυ Κλυνν",
+                "tier": "Actor"
+            },
+            {
+                "id": "a26-1",
+                "text": "ίνα καμπούνα καντούνα καλέ τρακατακά περι τα μπουρκού",
+                "tier": "Script"
+            }
+        ]
+    }
+]

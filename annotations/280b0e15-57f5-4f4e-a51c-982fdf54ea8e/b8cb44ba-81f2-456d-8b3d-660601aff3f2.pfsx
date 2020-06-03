@@ -15,7 +15,7 @@
         <String>ACT</String>
     </prefList>
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1986,991</Object>
+        <Object class="java.awt.Dimension">2560,1573</Object>
     </pref>
     <prefList key="ExportTradTranscript.HiddenTiers"/>
     <pref key="LayoutManager.VisibleMultiTierViewer">
@@ -55,7 +55,7 @@
         <String>VOI</String>
     </prefList>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">298,198</Object>
+        <Object class="java.awt.Point">0,27</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>173.99997</Float>
@@ -64,7 +64,7 @@
         <Object class="java.awt.Rectangle">1130,650,725,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>21120</Long>
+        <Long>1720</Long>
     </pref>
     <prefList key="ExportToolbox.selectedTiers">
         <String>Character</String>
@@ -87,10 +87,10 @@
         <String>Reference</String>
     </prefList>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>55516</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>26846</Long>
+        <Long>68973</Long>
     </pref>
     <prefList key="ExportCHATDialog.mainTierTable.Character">
         <Boolean>true</Boolean>
@@ -101,11 +101,11 @@
         <pref key="Script">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
-        <pref key="Voice quality">
-            <Object class="java.awt.Color">160,160,0</Object>
-        </pref>
         <pref key="Character">
             <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="Voice quality">
+            <Object class="java.awt.Color">160,160,0</Object>
         </pref>
         <pref key="Events">
             <Object class="java.awt.Color">90,90,0</Object>
@@ -161,7 +161,7 @@
         <String>Script</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>38900</Long>
+        <Long>9790</Long>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Sender">

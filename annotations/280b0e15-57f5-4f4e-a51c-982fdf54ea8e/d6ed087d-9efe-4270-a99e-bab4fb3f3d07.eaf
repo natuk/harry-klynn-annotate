@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-06-03T20:01:05+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/thanasis/Documents/programming/harry-klynn-annotate/audio/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/d6ed087d-9efe-4270-a99e-bab4fb3f3d07.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../audio/280b0e15-57f5-4f4e-a51c-982fdf54ea8e/d6ed087d-9efe-4270-a99e-bab4fb3f3d07.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:54a8c257-3730-4441-971e-0f7dd603cd2f</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">13</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="14040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="14040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="14040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="14055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="20775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="21990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="21990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="21990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="21990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="130150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="130150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="130150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="130150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="130176"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="142002"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Character">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Ανδρέας Παπανδρέου</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>τραγουδιστής / παππάς</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Actor">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Χάρρυ Κλυνν</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Χάρρυ Κλύνν</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Script">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Τι μου κάνετε κύριε Κώστα μου, χαίρεται κύριε Μπαγλαντέ(;), δε μπορείτε να φανταστείτε πόσο χαίρομαι που σας βλέπω μάτια μου (;) και λοιπά, να με ψηφίσετε στας ερχόμενας εκλογάς, τα δέοντα στη κυρία.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Σσσσς, σας παρακαλώ, σσσς, ησυχία.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>Προ αμνημονεύτων ετών και βάλε, ηγοράσθη παρ' αγνώστων οικόπεδο, και μετεβιβάσθη εις φράγκους, ενετούς και λοιπούς λατινοφώνους, και επ'αυτού οικοδόμησαν λουτρό, το μετέπειτα μετατράπεν εις ατμόλουτρον, κοινώς χαμάμ, υπό τον νέον εξ'ανατολών καταπατητών. Με το πλήρωμα όμως του χρόνου οι αυτόχθονες ιθαγενείς, εξεγερθέντες και με τη βοήθεια των εκ δυσμών αρχιτεκτόνων, μετέτρεψαν το ατμόλουτρο εις λουτροκαμπινέ. πλυν όμως όποιος ήθελε έμπαινε και όποιος ήθελε έβγαινε και καζανάκι δεν ετράβαγε.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Voice quality"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Events">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Ο Παπανδρέου εισέρχεται σε νυχτερινό κέντρο και χαιρετάει καθώς η μουσικοί ετοιμάζονται να ξεκινήσουν. Το μπουζούκι αρχίζει.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Καζανάκι τραβιέται</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Reference">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Μπουζούκι: τυπικό μουσικό όργανο λαϊκής διασκέδασης|"μάτια μου": λαϊκή έκφραση συμπάθειας που δεν περιμένει κανείς να ακουστεί από πολιτικό</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Η μουσική αναμιγνύει βυζαντινή μουσική και λαϊκή μουσική. Πιθανή αναφορά στην εμπλοκή της εκκλησίας σε θέματα πολιτικής ζωής; Ή σάτιρα της εκκλησίας καθώς εξομειώνεται η πνευματική μουσική της εκκλησίας με το μπουζούκι.|οικόπεδο: Ελλάδα|φράγκοι, ενετοί κλπ.: κατακτητές της Ελλάδας|εξ'ανατολών καταπατητές: Τούρκοι|εκ Δυσμών αρχιτεκτόνων: ιμπεριαλιστικές δυνάμεις της Δύσης</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
